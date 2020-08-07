@@ -1,0 +1,12 @@
+[
+    {"id":1001,"imgUrl":"./img/1.jpg","price":1399.00,"title":"荣耀Play4T Pro 麒麟810芯片 OLED屏幕指纹 4800万高感光夜拍三摄 22.5W超级","evaluate":"41万+","store":"荣耀京东自营旗舰店"},
+    {"id":1002,"imgUrl":"./img/2.jpg","price":5899.00,"title":"Apple iPhone 11 (A2223) 128GB 白色 移动联通电信4G手机 双卡双待 8月4日-8月","evaluate":"131万+","store":"荣耀京东自营旗舰店"},
+    {"id":1003,"imgUrl":"./img/3.jpg","price":899.00,"title":"Redmi Note8 4800万全场景四摄 4000mAh长续航 高通骁龙665 18W快充","evaluate":"50万+","store":"小米京东自营旗舰店"},
+    {"id":1004,"imgUrl":"./img/4.jpg","price":1199.00,"title":"荣耀9X 麒麟810 4000mAh续航 4800万超清夜拍 6.59英寸升降全面屏 全网通","evaluate":"233万+","store":"荣耀京东自营旗舰店"},
+    {"id":1005,"imgUrl":"./img/5.jpg","price":5899.00,"title":"Apple iPhone 11 (A2223) 128GB 黑色 移动联通电信4G手机 双卡双待 8月4日-8月","evaluate":"70万+","store":"荣耀京东自营旗舰店"},
+    {"id":1006,"imgUrl":"./img/6.jpg","price":4549.00,"title":"Apple iPhone XR (A2108) 128GB 白色 移动联通电信4G手机 双卡双","evaluate":"41万+","store":"Apple产品京东自营旗"},
+    {"id":1007,"imgUrl":"./img/7.jpg","price":5899.00,"title":"Apple iPhone 11 (A2223) 128GB 紫色 移动联通电信4G手机 双卡双待 8月4日-8月","evaluate":"123万+","store":"Apple产品京东自营旗"},
+    {"id":1008,"imgUrl":"./img/8.jpg","price":1599.00,"title":"荣耀Play4T Pro 麒麟810芯片 OLED屏幕指纹 4800万高感光夜拍三摄","evaluate":"80万+","store":"荣耀京东自营旗舰店"},
+    {"id":1009,"imgUrl":"./img/9.jpg","price":5499.00,"title":"Apple iPhone 11 (A2223) 64GB 黑色 移动联通电信4G手机 双卡双待 8月4日-8月8","evaluate":"20万+","store":"Apple产品京东自营旗"},
+    {"id":1010,"imgUrl":"./img/10.jpg","price":2099.00,"title":"荣耀20 PRO 4800万全焦段AI四摄 双光学防抖 麒麟980 全网通4G","evaluate":"150万+","store":"荣耀京东自营旗舰店"}
+]

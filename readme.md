@@ -14,7 +14,7 @@ console.log(n)
 
 ## git init
 1. 把当前目录初始化为版本库
-2. 当前目录会生成一个隐藏文件
+2. 当前目录会生成一个隐藏文件 .git
 
 ## git add 文件名
 1. 把当前目录下的某个文件提交到暂存区
@@ -48,7 +48,7 @@ console.log(n)
 ## 主要的几个操作
 1. git init -> 创建版本库
 2. git add 文件名 -> 工作区提交到暂存区
-3. git commit -m '注释'
+3. git commit -m '注释' ->
 
 # 本地仓库
 ## git remote add  origin 仓库地址
@@ -61,3 +61,7 @@ console.log(n)
 1. git push 本地仓库提交到远程远程仓库
 2. -u origin master 设置默认远程仓库和分支
 3. 执行完这个命令之后，以后可以直接 `git push`提交到远程仓库的master分支
+
+## 更新代码
+1. 把远程代码更新到本地是，一定要养成先提交再更新的习惯
+2. git pull 把远程代码拉取到本地
